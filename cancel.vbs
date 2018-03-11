@@ -1,0 +1,1 @@
+msgbox"Configuration has been deleted.",0+64,"Neustart+"
